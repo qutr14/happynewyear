@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/happynewyear/static/css/main.eb767b92.css",
+    "main.js": "/happynewyear/static/js/main.48c9b015.js",
+    "static/js/787.24dfcf60.chunk.js": "/happynewyear/static/js/787.24dfcf60.chunk.js",
+    "static/media/heart-white.png": "/happynewyear/static/media/heart-white.aa92c08dd456bc4ef097.png",
+    "index.html": "/happynewyear/index.html",
+    "main.eb767b92.css.map": "/happynewyear/static/css/main.eb767b92.css.map",
+    "main.48c9b015.js.map": "/happynewyear/static/js/main.48c9b015.js.map",
+    "787.24dfcf60.chunk.js.map": "/happynewyear/static/js/787.24dfcf60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb767b92.css",
+    "static/js/main.48c9b015.js"
+  ]
+}
